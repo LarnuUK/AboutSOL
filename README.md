@@ -1,5 +1,5 @@
 ## Question
-I've recently visited Chat, specifically the [Stack Overflow Lobby](https://chat.stackoverflow.com/rooms/259507/stack-overflow-lobby), however, I was unfamiliar with the rules and expectations of the chat room. Does the Lobby follow the same rules as Stack Overflow, and I must ask Programming/Software engineering questions, or is it more open? Can I ask about my Stack Overflow itself, or other sites in the network? Are there different rules there that don't exists in the Q&A area of the site? Are the a definitive set of rules?
+I've recently visited [Chat]https://chat.stackoverflow.com/?tab=explore), specifically the [Stack Overflow Lobby](https://chat.stackoverflow.com/rooms/259507/stack-overflow-lobby), however, I was unfamiliar with the rules and expectations of the chat room. Does the Lobby follow the same rules as Stack Overflow and I must ask Programming/Software engineering questions, or is it more open? Can I ask about Stack Overflow itself, or other sites in the network? Are there different rules there that don't exist in the Q&A area of the site? Are there a definitive set of rules?
 
 
 ## Answer
